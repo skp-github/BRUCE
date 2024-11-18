@@ -1,2 +1,3 @@
 # BRUCE
-OUR PERSONAL ASSIANTANT CODE
+Brilliant Resourceful Unobtrusive Companion for Everything
+
